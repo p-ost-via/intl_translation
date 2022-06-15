@@ -11,7 +11,7 @@ environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  analyzer: ^2.0.0
+  analyzer: ^3.4.1
   args: ^2.2.0
   dart_style: ^2.0.3
   intl: ^0.17.0
